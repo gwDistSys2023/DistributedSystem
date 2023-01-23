@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   GW CSCI 6421 Sprint 2023.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "DistributedSystem2023.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "gwdistsys2023.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: gwDistSys2023
 
