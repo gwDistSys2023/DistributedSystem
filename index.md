@@ -123,11 +123,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td style="text-align:right">
 			<i>Tasks:</i>
-		</td> 
-		<td>
-			 
-			<!--<a href="hw2/">HW2: Map Reduce</a> due 10/1, -10 points by 10/8 -- <a href="https://youtu.be/ZcaQ7yLAYwM">MapReduce Help Video</a> -- <a href="/project/#milestone-1-select-a-topic">Milestone 1: Select a Topic</a> - 10/10-->
-		</td>
+		</td> 	
 	</tr>
 	<tr>
 		<td>
