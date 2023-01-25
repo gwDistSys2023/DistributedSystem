@@ -48,7 +48,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>1/19/2023
 		</td>
 		<td>
-			<a href="./slides/1-introduction.pdf">Lecture Slides</a> -- 
+			<a href="./slides/1-Introduction.pdf">Lecture Slides</a> -- 
 			Please read <a href="project/">Final Project Instruction and Milestones</a>
 		</td>
 	</tr>
