@@ -67,7 +67,7 @@ We plan to have four programming assignments to help students learn how to deplo
 ### Project
 In the second half of the semester, students will work on a group project. Project proposals will need to be approved by the instructors and students will need to submit Milestone reports on a regular basis. Instead of a final exam, students will submit a final report and video presentation describing their project.
 
-### Lecture Preparation and Participation
+### Lecture Preparation and Participation (Bonus)
 
 
 *Prep Grading:* Students will be expected to prepare in advance of lectures by reading the specified materials or watching videos. A prep-quiz before each lecture will test students’ preparation and allow them to pose questions in advance of the lecture to guide discussion. These must be completed by the deadline (usually before class) to receive credit. No late submissions will be accepted.
