@@ -7,19 +7,18 @@ permalink: /syllabus/
 **Instructors:** [Prof. Roozbeh Haghnazar](mailto:roozbeh@gwu.edu)
 
 **Time/Place:**
-  * **Class meets Thursdays 6:10-8:40PM TOMP 204**
+  * **Class meets Thursdays 6:10-8:40PM BELL 204**
 
 **Office Hours:**
   
   * Prof. Haghnazar: With appointment 
-  * Zheng An: With appointment
 
 **Course prerequisites:**
   * CSCI 6212 Algorithms (Co-Requisite)
   * Undergraduate Operating Systems
   * Strong programming skills
 
-**Website:** [https://gwdistsys2021.github.io/gwDistSys2021/](https://gwdistsys2021.github.io/gwDistSys2021)
+**Website:** [https://gwdistsys2023.github.io/DistributedSystem/](https://gwdistsys2023.github.io/DistributedSystem/)
 
 
 ### Course Description
@@ -50,19 +49,17 @@ Students do not need to purchase a textbook for this class. The instructors may 
 | Week 1 | Overview of Distributed Systems Challenges | |
 | Week 2 | Scalable Execution Contexts <br> Threads, Virtual Machines, Containers, Parallelism | HW1: Parallel Sum|
 | Weeks 3 | Communication Mechanisms <br> RPC, Sockets, HTTP, P2P | HW2: Map Reduce|
-| Weeks 4-5 | Distributed Systems Architectures <br> Centralized vs Decentralized, Resource Management | Project Definition | 
-| Weeks 6-8 | Coordination and Consensus <br> State Machine Replication, Ordering, Agreement | HW 3: Elections|
-| Weeks 9-10 | Reliability and Fault Tolerance <br> Consistency, Replication, Quorums | HW4: DHT; Midterm: Project Milestone 2 |
-| Weeks 11-12 | Understanding Performance <br> Throughput, Latency, Bottlenecks, Profiling |Project Milestone 3 |
+| Weeks 4-5 | Distributed Systems Architectures <br> Centralized vs Decentralized, Resource Management | | 
+| Weeks 6-8 | Coordination and Consensus <br> State Machine Replication, Ordering, Agreement | HW 3: Elections (Optional)|
+| Weeks 9-10 | Reliability and Fault Tolerance <br> Consistency, Replication, Quorums | |
+| Weeks 11-12 | Understanding Performance <br> Throughput, Latency, Bottlenecks, Profiling | |
 | Weeks 13-14 | Applied Distributed Systems <br> Distributed Systems Design Patterns, Cloud and Grid Computing | |
 |Finals Period |  | Final project due|
 
 
 ### Grading
-  * Midterm exam (10%)
-  * Programming Assignments (35%) 
-  * Final project (35%)
-  * Class participation and lecture prep (20%)
+  * Programming Assignments (30%) 
+  * Final project (70%)
 
 ### Assignments
 We plan to have four programming assignments to help students learn how to deploy real distributed systems concepts in practice. Some programming assignments will be done individually, meaning students *may not* share any code with other students. In group projects, all students are expected to contribute equally.
