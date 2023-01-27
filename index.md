@@ -66,7 +66,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>1/26/2023
 		</td>
 		<td>
-			<a href="./slides/2-Processes_Threads.pdf">Lecture Slides </a>
+			<a href="./slides/2- Processes Threads VMs Containers.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
