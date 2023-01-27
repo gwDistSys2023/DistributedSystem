@@ -57,7 +57,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="https://gwdistsys2021.slack.com/join/signup#/domain-signup">Join Slack</a> today! -- <a href="https://forms.gle/e11quiWFicBK8gbf7">Student Survey</a> due Monday 9/6 
+			<a href="https://distributedsystem2023.slack.com">Join Slack</a> today! -- <a href="https://forms.gle/J7RMWejbaiRe1mkn7">Student Survey</a> due Monday 01/28 
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			<a href="./readings.html">Readings in Chapters 1, 3</a> -- Watch <a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">Azure HWaaS Video </a> -- <a href="hw1/"> HW1: Parallel Sum </a> due 9/17
+			<a href="./readings.html">Readings in Chapters 1, 3</a> -- Watch <a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">Azure HWaaS Video </a> -- <a href="hw1/"> HW1: Parallel Sum </a> due 04/06
 		</td>
 	</tr>
 	<tr>
@@ -207,7 +207,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>3/30/2023
 		</td>
 		<td>
-			<a href="./slides/10-Consistency.pdf">Lecture Slides </a>   <a href="hw2/">HW2: Map Reduce</a> due 11/21 <!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
+			<a href="./slides/10-Consistency.pdf">Lecture Slides </a>   <a href="hw2/">HW2: Map Reduce</a> due 03/30 <!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
 		</td>
 	</tr>
 	<tr>
@@ -215,7 +215,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="./readings.pdf">Readings in Chapter 7</a> -- <a href="./project/#milestone-3-design-document">Milestone 3: Design Document</a> - 11/9
+			<a href="./readings.pdf">Readings in Chapter 7</a> -- <a href="./project/#milestone-3-design-document">Milestone 3: Design Document</a> 
 		</td>
 	</tr>
 	<tr>
