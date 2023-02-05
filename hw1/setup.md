@@ -4,7 +4,7 @@ title: "Go Setup Instructions"
 permalink: /hw1/setup/
 ---
 
-> This page is incomplete and poorly written. For 2 bonus participation points, [create a pull request](https://github.com/gwDistSys20/gwDistSys20.github.io) to improve it!
+> This page is incomplete and poorly written. For 2 bonus participation points, [create a pull request](https://github.com/gwDistSys2023/DistributedSystem) to improve it!
 
 ## Install Go
 
