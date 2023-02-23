@@ -15,8 +15,8 @@ You have about two months to complete the project so it should be more significa
 **Due Dates:**
   - [Milestone 0: Form a Team](#milestone-0-form-a-team) - 01/30 
   - [Milestone 1: Select a Topic](#milestone-1-select-a-topic) - 02/04 (10 points)
-  - [Milestone 2: Literature Survey](#milestone-2-literature-review) - 02/16 (40 points)
-  - [Milestone 3: Design Document](#milestone-3-design-document) - 02/26 (50 points)
+  - [Milestone 2: Literature Survey](#milestone-2-literature-review) - 03/03 (40 points)
+  - [Milestone 3: Design Document](#milestone-3-design-document) - 03/16 (50 points)
   - [Milestone 4: Final Presentation](#milestone-4-final-report) - 05/16 (100 points)
 
 ---
