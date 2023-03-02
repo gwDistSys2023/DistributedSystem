@@ -4,8 +4,8 @@ title: "HW2: Map Reduce"
 permalink: /hw2/
 ---
 
-> Deadline:  11/23/2021 at 23:59PM
-> GitHub Repo Setup: <!--[https://classroom.github.com/a/k6kZp9et](https://classroom.github.com/a/k6kZp9et)-->
+> Deadline:  3/30/2023 at 23:59PM
+> GitHub Repo Setup: [https://classroom.github.com/a/Lgez71Pl](https://classroom.github.com/a/Lgez71Pl)
 > This assignment must be completed in **groups of 1-3 students**. 
 
 ## Introduction
