@@ -83,7 +83,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>2/02/2023
 		</td>
 		<td>
-			<a href="./slides/3 - Communication.pdf">Lecture Slides </a>
+			<a href="./slides/3-Communication.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -100,7 +100,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>2/09/2023
 		</td>
 		<td>
-			<a href="./slides/4 - Architectures.pdf">Lecture Slides </a>
+			<a href="./slides/4-Architectures.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -117,7 +117,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>2/16/2023
 		</td>
 		<td>
-			<a href="./slides/5 - Scheduling and LB.pdf">Lecture Slides </a>
+			<a href="./slides/5-Scheduling and LB.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
