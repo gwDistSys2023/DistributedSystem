@@ -181,7 +181,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="./readings.pdf">Readings in Chapter 6</a> and <a href="hw2/">HW2: Map Reduce</a> due 3/30 -- <a href="https://youtu.be/ZcaQ7yLAYwM">MapReduce Help Video</a>
+			<a href="./readings.pdf">Readings in Chapter 6</a> and <a href="hw2/">HW2: Map Reduce</a> due 4/30 -- <a href="https://youtu.be/ZcaQ7yLAYwM">MapReduce Help Video</a>
 		</td>
 	</tr>
 	<tr>
@@ -207,7 +207,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>3/30/2023
 		</td>
 		<td>
-			<a href="./slides/10-Consistency.pdf">Lecture Slides </a>   <a href="hw2/">HW2: Map Reduce</a> due 03/30 <!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
+			<a href="./slides/10-Consistency.pdf">Lecture Slides </a>   <a href="hw2/">HW2: Map Reduce</a> due 04/30 <!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
 		</td>
 	</tr>
 	<tr>
