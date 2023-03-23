@@ -181,7 +181,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="./readings.pdf">Readings in Chapter 6</a> and <a href="hw2/">HW2: Map Reduce</a> due 4/30 -- <a href="https://youtu.be/ZcaQ7yLAYwM">MapReduce Help Video</a>
+			<a href="./readings.pdf">Readings in Chapter 6</a> and <a href="hw2/">HW2: Map Reduce</a> due 4/30 -- <a href="https://www.youtube.com/watch?v=zREoQU5uoao">MapReduce HW Intro</a> -- <a href="https://youtu.be/ZcaQ7yLAYwM">MapReduce Help Video</a>
 		</td>
 	</tr>
 	<tr>
@@ -218,7 +218,7 @@ All deadlines are 11:59PM Eastern Time
 			<a href="./readings.pdf">Readings in Chapter 7</a> -- <a href="./project/#milestone-3-design-document">Milestone 3: Design Document</a> 
 		</td>
 	</tr>
-	<tr>
+	<!--<tr>
 		<td>
 			<b>Midterm Exam</b>
 			<br>--------</td>
@@ -233,7 +233,7 @@ All deadlines are 11:59PM Eastern Time
 		<td>
 			Study!
 		</td>
-	</tr>
+	</tr>-->
 </table>
 
 <table>
