@@ -275,7 +275,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>--------
 		</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/13 -Big data and ML in Distributed systems.pdf"> Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
