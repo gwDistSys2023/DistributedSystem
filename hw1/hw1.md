@@ -4,7 +4,7 @@ title: "HW1: Parallel Sum"
 permalink: /hw1/
 ---
 
-> Deadline: Tuesday 9/17/2021
+> Deadline: Tuesday 3/06/2023
 > GitHub Repo Setup: [https://classroom.github.com/a/eqlwJcEy](https://classroom.github.com/a/eqlwJcEy)
 > 
 > This assignment must be completed **individually**. You **MAY NOT** share your code for this assignment with any other student. It is acceptable to provide high level advice about relevant go libraries and tools, but you should not be explaining to other students how to solve the problem, nor should you be searching the internet for solutions.
@@ -44,8 +44,13 @@ You are provided three files in the  `sequential_sum/` starter code:
   - `sum.go` - implements the core `Sum(fileName string)` function which must return . You should fill in your code here, but should not change the signature of this function. The file also contains a `readInts` function which you should use to turn a file into an array of integers for processing by your Sum function.
   - `sum_test.go` - includes several test cases to validate that your program works correctly. You can extend this file if you would like to add more test cases. 
 
-You can build, run, and test your program with:
+Run the code without building it with: 
+```bash
+go run main.go sum.go -f test1.txt
 ```
+
+You can build, run, and test your program with:
+```bash
 go build -o seq
 
 ./seq -f test1.txt
@@ -68,13 +73,24 @@ Next work on the files in `parallel/`. Your new program should extend the files 
   - `sum.go` - modifies the `Sum()` function to accept the number of goroutines to use. You should still use the `readInts` function to sequentially read the file, but then you must split up the sum across the specified number of threads.
   - `sum_test.go` - similar to above
 
-You can build, run, and test your program with:
+Run the code without building it with: 
+```bash
+go run main.go sum.go -f test1.txt -g 4
 ```
+
+You can build, run, and test your program with the following steps:
+Build your go program
+```bash
 go build -o parallel
-
+```
+Run the executable with arguments
+```bash
 ./parallel -f test1.txt -g 4
--83
+```
+Output of the program:  `-83`
 
+Run the tests  
+```bash
 go test
 ```
 
@@ -92,13 +108,17 @@ You will work on the files in `http_parallel/` for this phase. You are provided 
   - `rpc_back/` - contains the files for the RPC server backend that listens on port 8083. It should receive RPC requests indicating the file to be processed and and the number of goroutines to perform the sum. It should then return the summation result to the frontend.
 
 You can build and start your program using *two* terminals:
+
+Run the RPC server on first terminal using the below: 
 ```
 ## RPC Server -- Terminal 1
 cd rpc_back/
 go build  -o rpc
 ./rpc
 RPC Listening on port 8083
-...
+```
+Run the HTTP frontend server(Pseudo frontend) on second terminal using the below: 
+```bash
 ## HTTP Server -- Terminal 2
 cd http_front/
 go build -o http

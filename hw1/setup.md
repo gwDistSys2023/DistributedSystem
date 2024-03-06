@@ -76,7 +76,27 @@ immediate results execute shell commands directlty or execute them via profile s
 
 <details><summary><strong>Mac Installation</strong></summary>
 <p>
+Install Go using Homebrew 
 
+Install `brew`  --> skip this step if you already have brew
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+Add HomeBrew to PATH (skip if you already did, I am using zsh)
+```bash
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> ~/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+```
+Update & Install Go
+```bash
+brew update && brew install golang
+```
+Test Installed Go 
+```bash 
+go version
+```
+
+// TODO: remove the below ?
 ```html
 Remove all the previous versions of Go before installing a new version on the device. To do so, follow these steps:- 
 
